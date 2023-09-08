@@ -14,6 +14,15 @@ namespace Variabler
             {
                 Console.WriteLine(Test1);
             }
+            string Test2 = "Du skrev talet 6!";
+            string Text1 = "Skriv 6";
+            Console.WriteLine(Text1);
+            string Test4 = Console.ReadLine();
+            int test5 = Convert.ToInt32(Test);
+            if (test5 == 6);
+            {
+                Console.WriteLine(Test2);
+            }
         }
     }
 }
